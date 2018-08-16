@@ -1,1 +1,6 @@
+@import '~@red-hat-insights/insights-frontend-components/Utilities/_variables';
+// @import '~@red-hat-insights/insights-frontend-components/Utilities/_all';
+
 .actions__view .actions__card{ text-transform: capitalize; }
+
+* { background: $ins-color--red; }

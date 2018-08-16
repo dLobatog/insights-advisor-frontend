@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { withRouter, Link } from 'react-router-dom';
 import asyncComponent from '../../Utilities/asyncComponent';
-import '../../App.scss';
+import './_actions.scss';
 
 import { Card, CardHeader, CardBody, Grid, GridItem } from '@patternfly/react-core';
 import {
